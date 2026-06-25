@@ -140,9 +140,7 @@ with st.sidebar.expander("📄 Dashboard Info", expanded=False):
     ---
 
     ### 👥 Credits
-    Developed by: *Jibril Hussaini*  
-    Supervised by: *Rachid Hedjam*  
-    Institution: *Bishop’s University*  
+    Developed by: *Jibril Hussaini*
     Year: 2025
 
     ---
